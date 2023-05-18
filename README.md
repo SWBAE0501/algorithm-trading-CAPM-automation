@@ -1,4 +1,4 @@
-# 🧱 Algoritm trading Data Project (ver. 23051811)
+# 📈 Algoritm trading Data Project (ver. 23051811)
 
 ## ✏️ 프로젝트명
 - S&P500 구성 개별기업들의 주가정보 데이터셋과 S&P500 인덱스 데이터셋으로부터 CAPM의 베타와 기대수익률 계산 자동화, 시각화 구현
