@@ -4,9 +4,12 @@
 - S&P500 구성 개별기업들의 주가정보 데이터셋과 S&P500 인덱스 데이터셋으로부터 CAPM의 베타와 기대수익률 계산 자동화, 시각화 구현
 
 ## 🗒 사용 데이터셋 목록
-### (D1) `SP500-weekly-price.zip` S&P500 구성 개별기업의 주가와 거래량 정보 데이터셋 503개
-### (D2) `dataset-SP500index-daily.csv` S&P500 인덱스 데이터셋, 미국채10년물 수익률
-### (D3) `sp500-corp-list.csv` S&P500 구성 기업들의 티커심볼과 회사명 데이터셋 
+### (D1) `SP500-weekly-price.zip` 
+- S&P500 구성 개별기업의 주가와 거래량 정보 데이터셋 503개
+### (D2) `dataset-SP500index-daily.csv` 
+- S&P500 인덱스 데이터셋, 미국채10년물 수익률
+### (D3) `sp500-corp-list.csv` 
+- S&P500 구성 기업들의 티커심볼과 회사명 데이터셋 
 
 ## 🗒 파일 목록과 설명 
 ### `CAPM-functions.ipynb` 
